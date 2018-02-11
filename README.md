@@ -9,6 +9,7 @@ Deployment Instructions and Requirements.
 4 Download and unzip employee system from http:// and unzip to tomcat installation folder/webapps.
 5 Copy postgres jar file from employee folder WEB-INF/lib to you tomcat installation folder/lib.
 6 Restart your tomcat and employee system will be deployed, then on your browser type localhost:8080/employee to access the system.
+7. Create database name employee in postgres and run employee.sql file to create table and default data. Root credential are username: root and password: baraza.
 
 Employee System Assumptions
 
